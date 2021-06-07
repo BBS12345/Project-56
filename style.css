@@ -1,0 +1,31 @@
+body{
+    background-color: deeppink;
+    text-align: center
+}
+p{
+    font-family: georgia;
+    color: darkblue;
+}
+h1,h4{
+    font-family: georgia;
+    color: darkblue;
+    font-weight: lighter;
+}
+button{
+    background-color: darkgoldenrod;
+    border-radius: 50px;
+    width: 100px;
+    height: 30px;
+    border-style: none;
+}
+div{
+    margin-top: 15px;
+}
+.image-section{
+    display: flex;|
+    justify-content: center;    
+}
+.section-style{
+    margin-right: 25px;
+    margin-left: 25px;
+}
